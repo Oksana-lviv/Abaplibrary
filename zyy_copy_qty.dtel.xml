@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZYY_COPY_QTY</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <HEADLEN>29</HEADLEN>
+    <SCRLEN1>08</SCRLEN1>
+    <SCRLEN2>19</SCRLEN2>
+    <SCRLEN3>29</SCRLEN3>
+    <DDTEXT>Number of Copies(of the book)</DDTEXT>
+    <REPTEXT>Number of Copies(of the book)</REPTEXT>
+    <SCRTEXT_S>Num of C</SCRTEXT_S>
+    <SCRTEXT_M>Number of Copies(of</SCRTEXT_M>
+    <SCRTEXT_L>Number of Copies(of the book)</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <DATATYPE>INT2</DATATYPE>
+    <LENG>000005</LENG>
+    <OUTPUTLEN>000006</OUTPUTLEN>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
